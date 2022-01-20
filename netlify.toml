@@ -1,0 +1,5 @@
+[build]
+
+base = "."
+command = "nom run build"
+publish = "./build/"
